@@ -9,4 +9,8 @@ int main (){
 	
 	double angka(10,5),angka,ANGKA(3,14);
 	int a(10),b(7),c(12);
+	
+	cout << nilai<<" : "<<Nilai<<" | "<<NILAI<<" "<<niLAi<<end1;
+	cout << angka <<"\n";
+	cout << Angka <<end1<<ANGKA;
 }
